@@ -1,13 +1,34 @@
 # Hi there! 👋
 
-I'm Mostafa Alshaer, a passionate data engineer and backend developer with a keen interest in data analysis. Welcome to my GitHub profile! 🚀
+I'm Mostafa Alshaer, a passionate data engineer and backend developer with a focus on creating robust data processing solutions. Welcome to my GitHub profile! 🚀
 
 ## 🔧 Technologies & Tools
 
-- Python | Java (Spring Boot) | SQL
-- AWS (Amazon Web Services)
-- Data Engineering | ETL | Data Processing
-- Git | Terraform
+- Python | Java (Spring, Spring Boot, Hibernate) | Node.js
+- SQL | Relational Databases | MongoDB | Mongoose | Sequelize
+- AWS (Amazon Web Services): Lambda, Athena, IAM, Step Functions, Glue, DMS, SQS, SNS, CloudWatch, S3
+- Data Engineering | ETL | Data Processing | Data Analysis
+- Git | Docker | Terraform
+
+## 🌟 Data Engineer Role
+
+As a data engineer, I specialize in designing, developing, and maintaining scalable and efficient data processing pipelines. My responsibilities encompass the following:
+
+### 1. Data Processing and Transformation
+- Leveraging ETL (Extract, Transform, Load) processes to efficiently move and transform data between systems.
+- Utilizing AWS Glue for automated data discovery, cataloging, and transformation.
+
+### 2. AWS Expertise
+- Extensive experience with AWS services such as Lambda for serverless computing, Athena for SQL-based querying, IAM for access management, and Step Functions for orchestrating workflows.
+
+### 3. Data Analysis
+- Focusing on data analysis to derive meaningful insights from structured and semi-structured data.
+
+### 4. Relational and NoSQL Databases
+- Designing and working with both relational databases (e.g., MySQL, PostgreSQL) and NoSQL databases (e.g., MongoDB) to handle diverse data requirements.
+
+### 5. Collaboration and Automation
+- Collaborating with cross-functional teams to understand data requirements and automate workflows for efficient data processing.
 
 ## 📂 Featured Projects
 
@@ -19,10 +40,11 @@ I'm Mostafa Alshaer, a passionate data engineer and backend developer with a kee
 
 ## 🌱 Currently Learning
 
-I'm currently focused on enhancing my skills in data analysis to complement my data engineering expertise.
+I'm currently dedicated to expanding my knowledge in data engineering, delving deeper into technologies, and gaining a comprehensive understanding of the latest advancements in the field. My goal is to continually enhance my expertise and stay at the forefront of data engineering innovations.
 
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/mustafa-shaer-b1b116148/)
+- [Twitter](https://twitter.com/YourTwitterHandle)
 
 Feel free to explore my repositories and connect with me on LinkedIn for further discussions. Happy coding! 🚀
