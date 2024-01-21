@@ -46,6 +46,5 @@ I'm currently dedicated to expanding my knowledge in data engineering, delving d
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/mustafa-shaer-b1b116148/)
-- [Twitter](https://twitter.com/YourTwitterHandle)
 
 Feel free to explore my repositories and connect with me on LinkedIn for further discussions. Happy coding! 🚀
