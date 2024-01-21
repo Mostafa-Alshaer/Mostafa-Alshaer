@@ -8,7 +8,7 @@ I'm Mostafa Alshaer, a passionate data engineer and backend developer with a foc
 - SQL | Relational Databases | MongoDB | Mongoose | Sequelize
 - AWS (Amazon Web Services): Lambda, Athena, IAM, Step Functions, Glue, DMS, SQS, SNS, CloudWatch, S3
 - Data Engineering | ETL | Data Processing | Data Analysis
-- Git | Docker | Terraform
+- Git | Terraform
 
 ## 📂 Featured Projects
 
