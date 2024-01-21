@@ -10,6 +10,14 @@ I'm Mostafa Alshaer, a passionate data engineer and backend developer with a foc
 - Data Engineering | ETL | Data Processing | Data Analysis
 - Git | Docker | Terraform
 
+## 📂 Featured Projects
+
+### [Cola Factory Data Engineering](https://github.com/Mostafa-Alshaer/cola-factory-data-engineering)
+- A comprehensive data engineering project showcasing my expertise in processing data from Cola Factory machines using AWS services. Check it out for insights into my data engineering skills.
+
+### [Tasks Manager - Node.js](https://github.com/Mostafa-Alshaer/tasks-manager-srvc-node-soa)
+- A backend service implemented in Node.js for task management. While this project represents my current backend experience, I also have extensive experience in Java Spring Boot for backend development.
+
 ## 🌟 Data Engineer Role
 
 As a data engineer, I specialize in designing, developing, and maintaining scalable and efficient data processing pipelines. My responsibilities encompass the following:
@@ -30,13 +38,6 @@ As a data engineer, I specialize in designing, developing, and maintaining scala
 ### 5. Collaboration and Automation
 - Collaborating with cross-functional teams to understand data requirements and automate workflows for efficient data processing.
 
-## 📂 Featured Projects
-
-### [Cola Factory Data Engineering](https://github.com/Mostafa-Alshaer/cola-factory-data-engineering)
-- A comprehensive data engineering project showcasing my expertise in processing data from Cola Factory machines using AWS services. Check it out for insights into my data engineering skills.
-
-### [Tasks Manager - Node.js](https://github.com/Mostafa-Alshaer/tasks-manager-srvc-node-soa)
-- A backend service implemented in Node.js for task management. While this project represents my current backend experience, I also have extensive experience in Java Spring Boot for backend development.
 
 ## 🌱 Currently Learning
 
