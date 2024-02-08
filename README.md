@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Mustafa Shaer, a passionate data engineer and backend developer with a focus on creating robust data processing solutions. Welcome to my GitHub profile! 🚀
+I'm Mustafa Shaer, a passionate backend developer and data engineer with a focus on creating robust data processing solutions. Welcome to my GitHub profile! 🚀
 
 ## 🔧 Technologies & Tools
 
